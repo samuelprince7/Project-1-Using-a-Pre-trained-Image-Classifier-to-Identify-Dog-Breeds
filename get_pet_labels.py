@@ -19,7 +19,7 @@
 # Imports python modules
 from os import listdir
 
-# TODO 2: Define get_pet_labels function below please be certain to replace None
+# DONE 2: Define get_pet_labels function below please be certain to replace None
 #       in the return statement with results_dic dictionary that you create 
 #       with this function
 # 
@@ -54,7 +54,7 @@ def get_pet_labels(image_dir):
            # Creates temporary label variable to hold pet label name extracted 
            pet_label = ""
 
-           # TODO: 2a. BELOW REPLACE pass with CODE that will process each 
+           # DONE: 2a. BELOW REPLACE pass with CODE that will process each 
            #          filename in the in_files list to extract the dog breed 
            #          name from the filename. Recall that each filename can be
            #          accessed by in_files[idx]. Be certain to place the 
