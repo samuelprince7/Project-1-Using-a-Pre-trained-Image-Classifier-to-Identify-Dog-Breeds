@@ -27,7 +27,7 @@ from classifier import classifier
 #       below by the function definition of the classify_images function. 
 #       Notice that this function doesn't return anything because the 
 #       results_dic dictionary that is passed into the function is a mutable 
-#       data type so no return is needed.
+#       data type so no return is needed. 
 # 
 def classify_images(images_dir, results_dic, model):
     """
