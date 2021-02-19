@@ -31,7 +31,7 @@
 #           label isn't a dog.
 #
 ##
-# DONE 4: Define adjust_results4_isadog function below, specifically replace the None
+# DONE 4 : Define adjust_results4_isadog function below, specifically replace the None
 #       below by the function definition of the adjust_results4_isadog function. 
 #       Notice that this function doesn't return anything because the 
 #       results_dic dictionary that is passed into the function is a mutable 
