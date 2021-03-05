@@ -38,7 +38,7 @@
 #            pct_correct_notdogs - percentage of correctly classified NON-dogs #777 , created line 171
 #
 ##
-# DONE 5 : Define calculates_results_stats function below, please be certain to replace None
+# DONE 5: Define calculates_results_stats function below, please be certain to replace None
 #       in the return statement with the results_stats_dic dictionary that you create 
 #       with this function
 # 
